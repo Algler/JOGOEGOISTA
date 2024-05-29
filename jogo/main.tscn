@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://dehl805qtedat"]
+
+[ext_resource type="Texture2D" uid="uid://suwb8m78h7ty" path="res://jogo/assets/player_down-01.png" id="1_bqlvc"]
+
+[node name="main" type="Node2D"]
+
+[node name="PlayerDown-01" type="Sprite2D" parent="."]
+position = Vector2(1, 0)
+texture = ExtResource("1_bqlvc")
